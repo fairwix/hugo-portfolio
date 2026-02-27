@@ -1,0 +1,9 @@
+baseURL = "https://juliasmirnova.github.io/portfolio/"
+languageCode = "ru"
+title = "Julia Smirnova — Портфолио"
+theme = "blowfish"
+
+[params]
+  defaultTheme = "auto"
+  description = "Портфолио разработчика Юлии Смирновой"
+  dateFormat = "02.01.2006"

@@ -1,0 +1,11 @@
+[en]
+  languageName = "English"
+  weight = 1
+  title = "Julia Smirnova — Portfolio"
+
+[ru]
+  languageName = "Русский"
+  weight = 2
+  title = "Юлия Смирнова — Портфолио"
+  languageCode = "ru"
+  contentDir = "content/ru"
